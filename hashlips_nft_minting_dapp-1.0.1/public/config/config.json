@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa1365a5ea7dc332074775c924550be86e8794601",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa1365a5ea7dc332074775c924550be86e8794601",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "EthiopianLoveCollection",
+  "SYMBOL": "ELC",
+  "MAX_SUPPLY": 600,
+  "WEI_COST": 60000000000000000000,
+  "DISPLAY_COST": 60,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ethiopianlovecollection",
+  "SHOW_BACKGROUND": true
+}
